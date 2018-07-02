@@ -1,0 +1,21 @@
+{
+	"name": "stylus-variable-loader",
+	"version": "0.0.1",
+	"description": "Stylus variable loader.",
+	"main": "index.js",
+	"keywords": [
+		"stylus",
+		"variable",
+		"js"
+	],
+	"author": "FL3NKEY",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FL3NKEY/stylus-variable-loader.git"
+	},
+	"bugs": {
+		"url": "https://github.com/FL3NKEY/stylus-variable-loader/issues"
+	},
+	"homepage": "https://github.com/FL3NKEY/stylus-variable-loader#readme"
+}
