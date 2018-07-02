@@ -1,8 +1,7 @@
 var stylus = require('stylus');
-var path = require('path');
 var fs = require('fs');
 
-var stFunctions = fs.readFileSync(path.resolve(__dirname, './node_modules/stylus/lib/functions/index.styl'), 'utf-8');
+var stFunctions = fs.readFileSync('./node_modules/stylus/lib/functions/index.styl', 'utf-8');
 
 var options = {};
 
