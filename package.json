@@ -1,6 +1,6 @@
 {
 	"name": "stylus-variable-loader",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Stylus variable loader.",
 	"main": "index.js",
 	"keywords": [
